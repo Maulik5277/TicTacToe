@@ -4,7 +4,7 @@
 ## Used UIelements
 - UIButton
 - UIImageView
-- Tableview
+- UICollectionView
 ## Screenshot
 ##### Page 1
 ![Page 1](TicTacToe/1.png)
